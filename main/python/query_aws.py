@@ -5,10 +5,10 @@ import json
 def create_connection():
     connection = mysql.connector.connect(
         # change host, user_name, and password
-        host="recipedb.cn2g2qucqocm.us-east-2.rds.amazonaws.com",
-        user="admin",
-        password="capFord131996#",
-        database="recipe"
+        host="",
+        user="",
+        password="",
+        database=""
     )
     return connection
 
