@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Recipe Application</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="home">Home</string>
+    <string name="login_page">Login Page</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_email_to_sign_up">Enter Email to Sign Up</string>
+    <string name="recipe">Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="enter_recipe_name">Enter Recipe Name</string>
+    <string name="add_recipe">Add Recipe</string>
+    <string name="add_recipe_page">Add Recipe Page</string>
+    <string name="enter_ingredient">Enter Ingredient</string>
+    <string name="enter_instructions">Enter Instructions</string>
+</resources>
